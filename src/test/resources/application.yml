@@ -9,7 +9,7 @@ server:
 
 spring:
   profiles:
-    active: local
+    active: test
   datasource:
     url:  jdbc:mysql://localhost:3306/querydslPractice?serverTimezone=Asia/Seoul
     username: cos
